@@ -4,47 +4,47 @@ Table of Contents
 
 2. [Pollutants of interest](#pollutants-of-interest)
 
-2.1 [Main List](#main-list)
+    2.1 [Main List](#main-list)
 
-2.2 [Commercial Devices](#commercial-devices)
+    2.2 [Commercial Devices](#commercial-devices)
 
-2.3 [Ozone (O3)](#ozone-o3)
+    2.3 [Ozone (O3)](#ozone-o3)
 
-[Thresholds](#thresholds)
+3. [Thresholds](#thresholds)
 
-[Sensor Technologies](#sensor-technologies)
+4. [Sensor Technologies](#sensor-technologies)
 
-[Sensors (by working principle)](#sensors-by-working-principle)
+    4.1 [Sensors (by working principle)](#sensors-by-working-principle)
 
-[Sensor Selection Parameters](#sensor-selection-parameters)
+    4.2 [Sensor Selection Parameters](#sensor-selection-parameters)
 
-[Sensing Problems](#sensing-problems)
+    4.3 [Sensing Problems](#sensing-problems)
 
-[Data Acquisition & Broadcast](#data-acquisition--broadcast)
+5. [Data Acquisition & Broadcast](#data-acquisition--broadcast)
 
-[Measurements](#measurements)
+    5.1 [Measurements](#measurements)
 
-[Data Broadcast](#data-broadcast)
+    5.2 [Data Broadcast](#data-broadcast)
 
-[Power Management](#power-management)
+    6. [Power Management](#power-management)
 
-[Sensor Testing](#sensor-testing)
+7. [Sensor Testing](#sensor-testing)
 
-[MCU](#mcu)
+    7.1 [MCU](#mcu)
 
-[Cloud Platform](#cloud-platform)
+    7.2 [Cloud Platform](#cloud-platform)
 
-[BME 680](#bme-680)
+    7.3 [BME 680](#bme-680)
 
-[MiCS 6814](#mics-6814)
+    7.4 [MiCS 6814](#mics-6814)
 
-[ENS160](#ens160)
+    7.5 [ENS160](#ens160)
 
-[Grove Multichannel v2](#grove-multichannel-v2)
+    7.6 [Grove Multichannel v2](#grove-multichannel-v2)
 
-[Actions Ahead](#actions-ahead)
+8. [Actions Ahead](#actions-ahead)
 
-[Localization](#localization)
+    8.1 [Localization](#localization)
 
 [References](#references)
 
