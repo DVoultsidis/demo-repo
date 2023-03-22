@@ -1,14 +1,14 @@
 Table of Contents
 
-[Introduction](#introduction)
+1. [Introduction](#introduction)
 
-[Pollutants of interest](#pollutants-of-interest)
+2. [Pollutants of interest](#pollutants-of-interest)
 
-[Main List](#main-list)
+2.1 [Main List](#main-list)
 
-[Commercial Devices](#commercial-devices)
+2.2 [Commercial Devices](#commercial-devices)
 
-[Ozone (O3)](#ozone-o3)
+2.3 [Ozone (O3)](#ozone-o3)
 
 [Thresholds](#thresholds)
 
